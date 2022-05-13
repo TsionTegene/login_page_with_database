@@ -1,13 +1,13 @@
-# login_page_with_database
+# login_page_with_database 👍👌
 ---
 ## Login Sample Screenshots
-![Login Sample]()
+![Login Sample](https://github.com/TsionTegene/login_page_with_database/blob/main/images/login.png)
 ---
 ## Signup Sample Screenshots
-![signup Sample]()
+![signup Sample](https://github.com/TsionTegene/login_page_with_database/blob/main/images/signup.png)
 ---
 ## Welcome Sample Screenshots
-![Welcome Sample]()
+![Welcome Sample](https://github.com/TsionTegene/login_page_with_database/blob/main/images/welcome.png)
 ---
 
 ## Requirements👇👇👇
